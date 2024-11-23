@@ -1,0 +1,4 @@
+/home/moein/Desktop/linuxDev/ContactApp/obj/Debug/net8.0/ContactApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/moein/Desktop/linuxDev/ContactApp/obj/Debug/net8.0/ContactApp.AssemblyInfoInputs.cache
+/home/moein/Desktop/linuxDev/ContactApp/obj/Debug/net8.0/ContactApp.AssemblyInfo.cs
+/home/moein/Desktop/linuxDev/ContactApp/obj/Debug/net8.0/ContactApp.csproj.CoreCompileInputs.cache
